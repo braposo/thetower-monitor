@@ -26,7 +26,7 @@ type ParsedData = {
 const filename = Deno.args[0];
 const data: Array<RawData> = await readJSON(filename);
 const moonrank: Record<string, string> = await readJSON(
-  "zzz/tower-moonrank.json"
+  "zzz/thetower-moonrank.json"
 );
 
 // Step 2: Filter specific data we want to keep and write to a new JSON file
