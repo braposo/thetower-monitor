@@ -19,7 +19,6 @@ type RawData = {
 type ParsedData = {
   id: string;
   price: number;
-  moonRank?: string;
   rank?: string;
   meURL: string;
   towerURL: string;
@@ -43,7 +42,7 @@ const enhancedData: Array<ParsedData> = data.results
     return {
       id,
       price: item.price,
-      moonRank: moonrank[id],
+      rank: moonrank[id],
       towerURL,
       meURL,
     };
@@ -58,10 +57,7 @@ await writeCSV("data-magiceden.csv", enhancedData);
 console.log("Wrote magiceden data");
 
 const sortedData = enhancedData.sort((a, b) => {
-  const aRank = parseInt(a.rank || "") + parseInt(a.moonRank || "");
-  const bRank = parseInt(b.rank || "") + parseInt(b.moonRank || "");
-
-  return aRank - bRank;
+  return parseInt(a.rank || "") - parseInt(b.rank || "");
 });
 
 const buckets = sortedData.reduce<Array<Array<ParsedData>>>(

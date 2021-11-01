@@ -31,15 +31,15 @@ const moonrank: Record<string, string> = await readJSON(
 
 // Step 2: Filter specific data we want to keep and write to a new JSON file
 const enhancedData: Array<ParsedData> = data
-  .map((gloom) => {
-    const [_, id] = gloom.name.split("#");
+  .map((item) => {
+    const [_, id] = item.name.split("#");
     const urlID = id.split("-").join("/");
     const towerURL = `https://towerdao.com/${urlID}`;
-    const solanartURL = `https://solanart.io/search/?token=${gloom.token_add}`;
+    const solanartURL = `https://solanart.io/search/?token=${item.token_add}`;
 
     return {
       id,
-      price: gloom.price,
+      price: item.price,
       rank: moonrank[id],
       towerURL,
       solanartURL,
