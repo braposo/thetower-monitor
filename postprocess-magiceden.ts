@@ -67,9 +67,9 @@ const buckets = sortedData.reduce<Array<Array<ParsedData>>>(
       bucket = 0;
     } else if (item.price <= 8) {
       bucket = 1;
-    } else if (item.price <= 15) {
+    } else if (item.price <= 12) {
       bucket = 2;
-    } else if (item.price <= 50) {
+    } else if (item.price <= 20) {
       bucket = 3;
     }
 
