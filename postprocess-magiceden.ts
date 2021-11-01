@@ -65,20 +65,20 @@ const sortedData = enhancedData.sort((a, b) => {
 });
 
 const buckets = sortedData.reduce<Array<Array<ParsedData>>>(
-  (data, gloom) => {
+  (data, item) => {
     let bucket: number | undefined = undefined;
-    if (gloom.price <= 0.5) {
+    if (item.price <= 4) {
       bucket = 0;
-    } else if (gloom.price <= 1) {
+    } else if (item.price <= 8) {
       bucket = 1;
-    } else if (gloom.price <= 1.5) {
+    } else if (item.price <= 15) {
       bucket = 2;
-    } else if (gloom.price <= 2) {
+    } else if (item.price <= 50) {
       bucket = 3;
     }
 
     if (bucket !== undefined) {
-      data[bucket].push(gloom);
+      data[bucket].push(item);
     }
 
     return data;
