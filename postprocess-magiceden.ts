@@ -17,7 +17,8 @@ type RawData = {
 };
 
 type ParsedData = {
-  id: string;
+  floor: string;
+  apt: string;
   price: number;
   rank?: string;
   meURL: string;
@@ -35,12 +36,13 @@ const moonrank: Record<string, string> = await readJSON(
 const enhancedData: Array<ParsedData> = data.results
   .map((item) => {
     const [_, id] = item.title.split("#");
-    const urlID = id.split("-").join("/");
-    const towerURL = `https://towerdao.com/${urlID}`;
+    const [floor, apt] = id.split("-");
+    const towerURL = `https://towerdao.com/${floor}/${apt}`;
     const meURL = `https://magiceden.io/item-details/${item.mintAddress}`;
 
     return {
-      id,
+      floor,
+      apt,
       price: item.price,
       rank: moonrank[id],
       towerURL,

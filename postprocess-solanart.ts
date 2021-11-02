@@ -15,7 +15,8 @@ type RawData = {
 };
 
 type ParsedData = {
-  id: string;
+  floor: string;
+  apt: string;
   price: number;
   rank?: string;
   solanartURL: string;
@@ -33,12 +34,13 @@ const moonrank: Record<string, string> = await readJSON(
 const enhancedData: Array<ParsedData> = data
   .map((item) => {
     const [_, id] = item.name.split("#");
-    const urlID = id.split("-").join("/");
-    const towerURL = `https://towerdao.com/${urlID}`;
+    const [floor, apt] = id.split("-");
+    const towerURL = `https://towerdao.com/${floor}/${apt}`;
     const solanartURL = `https://solanart.io/search/?token=${item.token_add}`;
 
     return {
-      id,
+      floor,
+      apt,
       price: item.price,
       rank: moonrank[id],
       towerURL,
