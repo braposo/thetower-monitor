@@ -15,10 +15,10 @@ id,price,rank,towerURL,meURL
 467-16,3.19,8566,https://towerdao.com/467/16,https://magiceden.io/item-details/7gR3XFFZdCZJxaHjBVzk7n9iJEfXtF5yjtsQbDF4yUDG
 345-11,3.2,3754,https://towerdao.com/345/11,https://magiceden.io/item-details/AsCvg11EMNzy6DY5jNKXbJXwmhcKS4TrnAhB96ZabShb
 298-12,3.2,9202,https://towerdao.com/298/12,https://magiceden.io/item-details/2wHfvbG3AXZykBZPjR61aHvxShibmWXP8AaFkWykXZZ6
-338-18,3.23,9022,https://towerdao.com/338/18,https://magiceden.io/item-details/JEjrH9VBPop7qGrcU7q5rMmXyCYHDC6zDcQTrt74wxY
 373-6,3.29,3951,https://towerdao.com/373/6,https://magiceden.io/item-details/8PSfBXZ1bpnAi2KrRt77cwTRUA99iVnC7BJ28K5GQYzA
 196-6,3.3,4342,https://towerdao.com/196/6,https://magiceden.io/item-details/D1VbiDnE2DWL5VPjNqgmwKY3ueur2chKUmcWs9kj6UKL
 319-16,3.35,567,https://towerdao.com/319/16,https://magiceden.io/item-details/H7rpMhR9svPP1fV4u6R434Z7ALX7zKiWHsQFTrNN4oED
+277-13,3.39,3000,https://towerdao.com/277/13,https://magiceden.io/item-details/DP8quGFdP5ae1npWP7rqKS1DCz1eXofqNAYkSWrV3hyY
 75-6,3.4,750,https://towerdao.com/75/6,https://magiceden.io/item-details/3Ykc9hxFyr64UZjpHAn4ipdMGiKwt6U3eYkv2JK3tC6c
 379-16,3.4,3986,https://towerdao.com/379/16,https://magiceden.io/item-details/E1cZ2Q6LZ1pKEj7622aodFosGDdZQEPs8mZCRuDMuG75
 433-11,3.48,2601,https://towerdao.com/433/11,https://magiceden.io/item-details/EHPQDuBjGDDWRdYqo1M8LbxyZo7kuM8oQR5VykYRypwV
@@ -175,6 +175,7 @@ id,price,rank,towerURL,meURL
 421-7,11,6169,https://towerdao.com/421/7,https://magiceden.io/item-details/2GtPwrZJNswiUzYivspKedyYkoyF8Jjd2nrXaJuw7Z8t
 231-16,11,234,https://towerdao.com/231/16,https://magiceden.io/item-details/9MZX1ZtWsFNAk9AT7LEjwLamqqHLLuhc6YnJx93TxJpm
 344-12,11,5956,https://towerdao.com/344/12,https://magiceden.io/item-details/7RqgisHSB7pMSJRqrqSrBWkJo2VzhLWWQes1mE3oFKTu
+16-18,11.9,9095,https://towerdao.com/16/18,https://magiceden.io/item-details/6phw6gQ3fg9UyqrGcZjmixCZHtQz9UsQTZVsnE1q77ZX
 405-1,12,8673,https://towerdao.com/405/1,https://magiceden.io/item-details/4VXV6Gb21zKM6WXig4Q9uphN99FPVFnTTtfMkrSLKHBm
 48-3,12,1727,https://towerdao.com/48/3,https://magiceden.io/item-details/F1Ba2A1vwB4WrrkUqkyXFPMfZryqTzbXJPXNzUZf8mEs
 319-12,12,9194,https://towerdao.com/319/12,https://magiceden.io/item-details/GMfHVoxJ4rgko742V16k7CHiV6qLqyM9ySDvDsVXRNFy
