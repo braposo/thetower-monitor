@@ -1,5 +1,4 @@
 floor,apt,price,rank,towerURL,solanartURL
-344,19,1.1,9610,https://towerdao.com/344/19,https://solanart.io/search/?token=GHbctRjrYcYv3pfTm1CTH2wXqRyz6i8eCFTA8mVnh4o2
 83,18,1.3,7790,https://towerdao.com/83/18,https://solanart.io/search/?token=9rTiRMR5VMSAZeEeksemRdoTvyDMbDqqw98hYBT9n5YJ
 47,19,1.3,6970,https://towerdao.com/47/19,https://solanart.io/search/?token=4BLLPC3jxJLNM7Dy2eBLAQH6yNcj8ujQdkELywUxd9N5
 171,19,1.35,4630,https://towerdao.com/171/19,https://solanart.io/search/?token=6pCdPaMNgmX9Y9hS3Ccc1TuGkpbsfuxitDRn7KNkYEqK
@@ -1730,6 +1729,7 @@ floor,apt,price,rank,towerURL,solanartURL
 336,5,333,6625,https://towerdao.com/336/5,https://solanart.io/search/?token=4ucq7yZk2zTm8Ya8caTRt8NdgTbXVnkbNpCz5JofYhWH
 152,14,333,9673,https://towerdao.com/152/14,https://solanart.io/search/?token=8msPEe2VtwoG9y2DW6vgQ3riUcfyScUbdrbBTboHnoc4
 243,6,399,3524,https://towerdao.com/243/6,https://solanart.io/search/?token=5JcPT8pfgiJdnSpcv1SvN2c1bQVomGN2BvjnfwN1HBah
+291,2,420,6550,https://towerdao.com/291/2,https://solanart.io/search/?token=6WymbZEq532SXvwucWDbVxXM4VwNzeaLQ6gzMWySmcHn
 420,10,420.100006,6840,https://towerdao.com/420/10,https://solanart.io/search/?token=7CxooS8XmsGrztrisXgXzcNbS73An8gZTPCrVcE6bdBT
 420,20,420.100006,3092,https://towerdao.com/420/20,https://solanart.io/search/?token=7mbGyt4RCVsJ1u2Aa6CjFjXfKxphjBYcfGJqqnBMdTgi
 420,19,420.190002,7198,https://towerdao.com/420/19,https://solanart.io/search/?token=21RQ7teaZgSoA8NH86MkoZqNSAZ53MJRV32FVyycs1gu
@@ -1744,7 +1744,6 @@ floor,apt,price,rank,towerURL,solanartURL
 460,14,500,419,https://towerdao.com/460/14,https://solanart.io/search/?token=DGDFdTTZuVbidG2P1RDth1kuFibstRYqk13zCxrzEtQt
 446,14,501,9753,https://towerdao.com/446/14,https://solanart.io/search/?token=2chRfZdJb7ApyR8ebaXatnQWPdDZ2WuoiuJ46TNpFVWt
 130,12,555,4115,https://towerdao.com/130/12,https://solanart.io/search/?token=Epr7YG8UdWwzKLXLEL9LkzCA7itf1JhWenWqjywpqyQK
-291,2,969,6550,https://towerdao.com/291/2,https://solanart.io/search/?token=6WymbZEq532SXvwucWDbVxXM4VwNzeaLQ6gzMWySmcHn
 400,15,999,6493,https://towerdao.com/400/15,https://solanart.io/search/?token=4Kex22Bb7wTSBGA4vgbygWLC4DEsQArZw2quGW4Tt6tH
 489,9,1429,6369,https://towerdao.com/489/9,https://solanart.io/search/?token=HoWmtdsMFWLHckuiF7igg5DpeDhzBNpRiGJQNVuw6dhT
 59,16,1500,1118,https://towerdao.com/59/16,https://solanart.io/search/?token=Fw5HnwGoFfah6LE5JT1w3oURuHwvouYuDYu2eEVeKKaF
