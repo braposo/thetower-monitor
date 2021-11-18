@@ -1,5 +1,4 @@
 floor,apt,price,rank,towerURL,solanartURL
-344,19,1.33,9610,https://towerdao.com/344/19,https://solanart.io/search/?token=GHbctRjrYcYv3pfTm1CTH2wXqRyz6i8eCFTA8mVnh4o2
 127,17,1.33,8455,https://towerdao.com/127/17,https://solanart.io/search/?token=Ex98tuQpadcoBS4DyFAGVkR7VENceKYS9isHoLnEqPhy
 73,14,1.37,6667,https://towerdao.com/73/14,https://solanart.io/search/?token=FoZWKHqkT6a5t1BCCXDWAC89AQJixjYL8JZdBqBm3zoy
 156,11,1.39,8988,https://towerdao.com/156/11,https://solanart.io/search/?token=2GueSrb7Gk69fJMRM7DQd82fzANeEMHisR9RU1afP41j
@@ -11,10 +10,11 @@ floor,apt,price,rank,towerURL,solanartURL
 215,17,1.45,7490,https://towerdao.com/215/17,https://solanart.io/search/?token=HVFXjZkhkds9xiWc5pA9gbRVfyw99bCTrxNadaFNNH36
 107,15,1.49,4335,https://towerdao.com/107/15,https://solanart.io/search/?token=8kL9FJKyfiZ7ZR46JvRXUaerSqbZDtGjL9yF6BbGya3x
 336,16,1.5,9512,https://towerdao.com/336/16,https://solanart.io/search/?token=8F9JbJiebca9oiFSMHVJvvzH9hLsjUF39qHPDvJimfeu
+53,17,1.5,3530,https://towerdao.com/53/17,https://solanart.io/search/?token=DTLknYpYcecpCK9KabN2DjUyG7JbXgm4bEk9m4ffLhPt
 222,7,1.5,6339,https://towerdao.com/222/7,https://solanart.io/search/?token=EJKKPw6gEGM6YMrRxJxaGsKYBsPZNVpZ3esM1YcGgKXn
 77,2,1.5,4340,https://towerdao.com/77/2,https://solanart.io/search/?token=Bq6nYgnB6TpwCi6owSCCU9mPzmD7rDTVYRy4nMb9XzY2
-182,1,1.5,1840,https://towerdao.com/182/1,https://solanart.io/search/?token=Dg4oykd6gN4Hx1xwzTDTa4jUTwEokBRs2B3EC7EwZYqc
 38,16,1.5,3791,https://towerdao.com/38/16,https://solanart.io/search/?token=CxXN24rgChx38QLaZgJuwy8RAE7wV1fEQ2RLaeNuS4oc
+487,8,1.5,2710,https://towerdao.com/487/8,https://solanart.io/search/?token=DBgNQZrE8Z8UNX8g4icRR6WqFAZ6StoKrF8P6najifS8
 188,14,1.6,6680,https://towerdao.com/188/14,https://solanart.io/search/?token=7cAu9w25CGmmL81ne5pkQHqvJU8zf8P1VJAvjhY4yTe4
 276,11,1.6,3218,https://towerdao.com/276/11,https://solanart.io/search/?token=me1HDuBbnknQpnu5oe22maSnapNjMLhBmMsahtZszMQ
 115,14,1.6,7025,https://towerdao.com/115/14,https://solanart.io/search/?token=61fCCYS5c7c1f2BfsyusJDdVobvFT1gipPG9JFX2n1Cg
@@ -33,7 +33,6 @@ floor,apt,price,rank,towerURL,solanartURL
 5,15,1.79,5174,https://towerdao.com/5/15,https://solanart.io/search/?token=2zxqFuuHCQ9MQmBC15yNmXGF1JbgNBGfraBD8SLy9bcN
 144,20,1.8,5524,https://towerdao.com/144/20,https://solanart.io/search/?token=GeDkzHPgzP95wmmVQ55drAcAHk7qrv3937MiwjxLWtzp
 74,4,1.8,4116,https://towerdao.com/74/4,https://solanart.io/search/?token=Fgh2b3Cioy6U295c6c9nRDe6z8w6Y5FmGQWqexn2yyE8
-487,8,1.8,2710,https://towerdao.com/487/8,https://solanart.io/search/?token=DBgNQZrE8Z8UNX8g4icRR6WqFAZ6StoKrF8P6najifS8
 289,9,1.87,9443,https://towerdao.com/289/9,https://solanart.io/search/?token=ELQrvDgQB3y6VMbR7cutsjrukD2QP31teT8BuDw2cUoB
 383,5,1.89,7449,https://towerdao.com/383/5,https://solanart.io/search/?token=2UsaiTsWWuDKaoygge3ifAbJn7fAic5D7nns64DJSsFU
 440,20,1.9,1975,https://towerdao.com/440/20,https://solanart.io/search/?token=6gsUq93qEWJjmraWVqtuMk65QuHy1hCFmCY6F4UbbHNf
@@ -200,7 +199,6 @@ floor,apt,price,rank,towerURL,solanartURL
 139,14,2.5,5528,https://towerdao.com/139/14,https://solanart.io/search/?token=7WUvGNwT8H7B8XYZxPNMV788437WpX8VqJrpPsCDFE3R
 178,16,2.5,2490,https://towerdao.com/178/16,https://solanart.io/search/?token=J8weNxQxiZpwKuyYm3AL6BPsjvg1Fw3QaXfAMoNezRVi
 7,8,2.5,4193,https://towerdao.com/7/8,https://solanart.io/search/?token=82FwveXNFc4vPDLuy7s2ubadTAUnJx8EcuQtoNtFqeyU
-53,17,2.5,3530,https://towerdao.com/53/17,https://solanart.io/search/?token=DTLknYpYcecpCK9KabN2DjUyG7JbXgm4bEk9m4ffLhPt
 125,20,2.5,3518,https://towerdao.com/125/20,https://solanart.io/search/?token=EvZGiRqa3hk49fPp6SvRyQL7fAoucwwurpnzviGYftEU
 54,1,2.5,1897,https://towerdao.com/54/1,https://solanart.io/search/?token=32Jp3oDXMGAPCCp4NCoQQ1toHCGd8ypa6F8w52p2MznV
 419,12,2.5,791,https://towerdao.com/419/12,https://solanart.io/search/?token=2e9EA7e28obZPh82Xy3Sfumpz6fX1UpDEX9KmamD11G9
@@ -342,6 +340,7 @@ floor,apt,price,rank,towerURL,solanartURL
 159,2,3,9217,https://towerdao.com/159/2,https://solanart.io/search/?token=GRjfbmkJPenEhYJwib34pdUfCqKL6iSZDb2HYCXojTaY
 485,6,3,7580,https://towerdao.com/485/6,https://solanart.io/search/?token=3sddVpoUkqL6XBtu38FJ6Z51RnC99TKG3eRMsNqCqavY
 381,4,3,8202,https://towerdao.com/381/4,https://solanart.io/search/?token=J1j41Rft4GMDYRXFcQ4aqNTcoJ1qFMxzueoLWEm8wxCV
+6,10,3,6800,https://towerdao.com/6/10,https://solanart.io/search/?token=B1DXNPrEJNYb1G2bvWMRV1sqmw1iGnxzpr6CANgFsuyE
 182,17,3.1,4322,https://towerdao.com/182/17,https://solanart.io/search/?token=ADyB27LzFeQnJzde4qLR3z9tck5tjphMQkg4ZGv1gpJw
 419,8,3.1,7079,https://towerdao.com/419/8,https://solanart.io/search/?token=6R9H3tD1ahS4qkQ17nbUgfCT3gc2zsbbTxQTfpbSDK4W
 105,7,3.1,3770,https://towerdao.com/105/7,https://solanart.io/search/?token=Fsy73dGHxF6yRyxCKxJFgiRS9o4yKPi7r49HhngrjFS4
@@ -1085,6 +1084,7 @@ floor,apt,price,rank,towerURL,solanartURL
 287,6,8,6876,https://towerdao.com/287/6,https://solanart.io/search/?token=HNZdernEF5FVRq5at4fXpKZxdW7DddWeGC7jDdxdUwEX
 219,17,8,9136,https://towerdao.com/219/17,https://solanart.io/search/?token=3AMEJbPLbTNBFMxuWBAU6GT39AfSDNfbDpo6phgt4iXZ
 262,18,8,3148,https://towerdao.com/262/18,https://solanart.io/search/?token=9HDEH18LEbc37ng4VnYnetEBZXHZUeQucuaw6BM6Pv3P
+212,10,8,372,https://towerdao.com/212/10,https://solanart.io/search/?token=8VBUjfH4fSjt2eLUSX5nJjg9rmC1bdqSS8YNgdtYogvA
 27,7,8,6996,https://towerdao.com/27/7,https://solanart.io/search/?token=49iWoxDVavt5ETKf3cYUbcuizHm8Yd6G61v5dxzYvyqk
 44,7,8,331,https://towerdao.com/44/7,https://solanart.io/search/?token=D1VR3DXFNFCYxrR1WrEWoUeCtPe1cNEqkWA3fVHdPCkw
 200,2,8,1382,https://towerdao.com/200/2,https://solanart.io/search/?token=GyhqKrXnmKZ7m9vDqV4Gu3nfFQRLfsEuotPwnxDAaozC
@@ -1181,7 +1181,6 @@ floor,apt,price,rank,towerURL,solanartURL
 432,16,9.99,5543,https://towerdao.com/432/16,https://solanart.io/search/?token=6U4K5XDoPcRnTyqqwVPMoLWG5bn8RNwsgqnCUS5FRuNP
 86,2,9.99,9859,https://towerdao.com/86/2,https://solanart.io/search/?token=3R9PKzrx4wV7zGC5kqnNfDchEBU6qak9RqTWFuEUSuD3
 222,10,9.99,6175,https://towerdao.com/222/10,https://solanart.io/search/?token=Ez3whR4hcXs5CGLrj6AwQqPasvoRb2Dr62pxvyksGSvZ
-212,10,9.99,372,https://towerdao.com/212/10,https://solanart.io/search/?token=8VBUjfH4fSjt2eLUSX5nJjg9rmC1bdqSS8YNgdtYogvA
 478,11,9.99,4692,https://towerdao.com/478/11,https://solanart.io/search/?token=FsxXzf4QeE2NTywgKnHicMcya3PeCrPdzHDtzjSMXbMk
 277,7,9.99,9112,https://towerdao.com/277/7,https://solanart.io/search/?token=HDYoJ5LUrHhPQnhZTfpkDhsgTtoM173m9k31bYLiUrtj
 144,2,9.99,1722,https://towerdao.com/144/2,https://solanart.io/search/?token=3ksB4mV9ESnbDqk7N2Byk2Pkyo6NTKboEjCLnBFiiiA4
@@ -1472,6 +1471,7 @@ floor,apt,price,rank,towerURL,solanartURL
 433,4,20,571,https://towerdao.com/433/4,https://solanart.io/search/?token=8frsYhyv5gHpBUNSbyGskYr68hq85bJ3dKnXr8E95iod
 410,19,20,9527,https://towerdao.com/410/19,https://solanart.io/search/?token=BCWoGrxNnMpdtsQ1rTDZ5VTqqsmPovtRs3nqBw1WKFpi
 382,18,20,5131,https://towerdao.com/382/18,https://solanart.io/search/?token=9doykkxWvhUncmyYxpg8oXqGRN9VG6M5755j71JRt4NB
+484,8,20,1425,https://towerdao.com/484/8,https://solanart.io/search/?token=6yLntM2YfdLh6eMGbJFipKTQUQ3wU7SugVPfAHrjLYM3
 493,18,20.02,7625,https://towerdao.com/493/18,https://solanart.io/search/?token=DXDQh5y7WhnMcjPQDrbvSzWY8aARjreboph3K9D2t1Ed
 82,18,21,6648,https://towerdao.com/82/18,https://solanart.io/search/?token=6WjARumnk1uP1fpn3JwcWKtLoZXGFYhZryL5DveX744Q
 408,3,21,5749,https://towerdao.com/408/3,https://solanart.io/search/?token=FJeWqjSZhHU6WniKFLpuZcqdKLG92AXi3jZa8EgYWMiu
@@ -1541,6 +1541,7 @@ floor,apt,price,rank,towerURL,solanartURL
 369,9,35,9523,https://towerdao.com/369/9,https://solanart.io/search/?token=8ZujoDrUPS1bYMENu3PbyzGoUHza6wzmL9gnJSt371wE
 471,15,35,2373,https://towerdao.com/471/15,https://solanart.io/search/?token=4TzfCavb9SJ93TYLXs95vwntoWzYG8xxpGVmX87iNxG2
 499,12,35,5896,https://towerdao.com/499/12,https://solanart.io/search/?token=13aFYVHAWbJtpegLYr9NK6zGkcNczv58TBgXgEsDi9WL
+285,19,35,629,https://towerdao.com/285/19,https://solanart.io/search/?token=5cgZ9K4uwQdzFeAPAPMUejWrPDHkzxTLAfBDf4ub6bBF
 500,19,36,3789,https://towerdao.com/500/19,https://solanart.io/search/?token=EttcTzTw713BRKoxJCs2PcswRLdp4iao9FWSp5CH4gQy
 267,4,36.689999,4526,https://towerdao.com/267/4,https://solanart.io/search/?token=CTUHxU4ZVo4xxvfHoauqiekMHzkFk44g7G6DhkLGxggR
 346,6,36.689999,5580,https://towerdao.com/346/6,https://solanart.io/search/?token=GKqFbTTvKCvnR2Vx7KseFgL9hF2zWTFkZxUr8vMFZREi
