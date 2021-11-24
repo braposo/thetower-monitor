@@ -1,12 +1,10 @@
 floor,apt,price,rank,towerURL,meURL
-351,4,0.94,9479,https://towerdao.com/351/4,https://magiceden.io/item-details/6Fb1x8pbtaR9v6YMH7KyEbwFXb8qWHg28YGwQTXeGqSa
 222,13,0.95,6081,https://towerdao.com/222/13,https://magiceden.io/item-details/Dqm1Ty166SLRrTnqjwGj54DDYWycXAhWDNiCArrTtSWF
 146,18,0.95,7662,https://towerdao.com/146/18,https://magiceden.io/item-details/2s1nvNosSDJbhvToz9RTKLW8xTdtUKy5Ve5uJjMK3M3t
 24,1,0.98,8286,https://towerdao.com/24/1,https://magiceden.io/item-details/Cwuck5kokr3omjfgfL5krz6DrSe3kPd226yv3Y2JYchX
 259,5,0.99,9584,https://towerdao.com/259/5,https://magiceden.io/item-details/AZfCFyjnpWmM84aN3E3k8KbafuULQ8sHfHZKxMQvW6Zj
 335,13,1,3752,https://towerdao.com/335/13,https://magiceden.io/item-details/52NFiZmeKvH3PqGUJ3u8T7SwmW6JifFwQdc1i6UXKXzu
 144,16,1,4975,https://towerdao.com/144/16,https://magiceden.io/item-details/4ppW4mYakxy3n1hcBg4DAEvdmndJVBPefe6zvxTE9UcY
-41,7,1,2861,https://towerdao.com/41/7,https://magiceden.io/item-details/DTATSnRsv371cCdpNKgcFm5BBfQd6s6yFWszECPHAH4Q
 181,13,1,7209,https://towerdao.com/181/13,https://magiceden.io/item-details/CPUEcssKuBs2T7RnRB237TK2JWuL1BRcY2hRhxigcUfr
 87,1,1,2218,https://towerdao.com/87/1,https://magiceden.io/item-details/ASKrpaudwLrP631hURMacR6ubpBcDgaJ6prKMXz4NJ1b
 28,20,1,4181,https://towerdao.com/28/20,https://magiceden.io/item-details/7xmNCXmAyqCqcfpgCmN6awUsBccwmGifmKCgP8iUudxj
@@ -73,6 +71,7 @@ floor,apt,price,rank,towerURL,meURL
 258,16,2.05,4468,https://towerdao.com/258/16,https://magiceden.io/item-details/3SpWAUmjYY3xjEZuLKqxgcZFv2XgD7op4LAbdyHMqZCb
 74,9,2.11,5289,https://towerdao.com/74/9,https://magiceden.io/item-details/7eKm6t4bA5NucJDWjdNdRyoZ2ZoDCXZU1Vj1Eew3pAcM
 3,13,2.15,9689,https://towerdao.com/3/13,https://magiceden.io/item-details/JEJtsrP4ySMd4aJDNyR6UAC6g6kbYdY9ksQZ337PggmG
+54,13,2.19,5961,https://towerdao.com/54/13,https://magiceden.io/item-details/9guooT8jEJJS4PdUesXJBuE7zDurwmsBtUiXfU9LWxYp
 426,10,2.2,7473,https://towerdao.com/426/10,https://magiceden.io/item-details/8vuS3Xa7Wzc7wD46xv5mf2t4JH4qu7Qc7sMx8QeEyXfZ
 87,12,2.2,5196,https://towerdao.com/87/12,https://magiceden.io/item-details/Cok3EeNnZJoXfqUgb42Jvgb1KhSEvhr7v3SxdDAUJZVm
 113,7,2.23,5099,https://towerdao.com/113/7,https://magiceden.io/item-details/FB1evPSt7b3x43CgKd7i8BtGDPqGYBJvvxeWXtPi6FE6
@@ -102,7 +101,6 @@ floor,apt,price,rank,towerURL,meURL
 158,3,2.75,3073,https://towerdao.com/158/3,https://magiceden.io/item-details/ANxhwRKhLthFJSgQjgyYBsJPyipA7u7JzqtT2uVLGwjf
 104,18,2.75,3021,https://towerdao.com/104/18,https://magiceden.io/item-details/9kzuZ8WXLuyiso6sCSifH5cwX4Gy4a5wN7Y3KHxjU7pt
 23,10,2.79,7504,https://towerdao.com/23/10,https://magiceden.io/item-details/5jEn1u9Vn9TDHihwbhkW6NYVJeHbft7jxydAAcwD9BLK
-54,13,2.8,5961,https://towerdao.com/54/13,https://magiceden.io/item-details/9guooT8jEJJS4PdUesXJBuE7zDurwmsBtUiXfU9LWxYp
 111,18,2.85,869,https://towerdao.com/111/18,https://magiceden.io/item-details/EkPqR9s3HemeHJuuFFGfePYBoniDF2UH8GaD4dQg7hcx
 171,14,2.89,4387,https://towerdao.com/171/14,https://magiceden.io/item-details/BuVqke7s6P3nrBvEi5CkkaHdt2VmFJudvcQkKCeaN2jJ
 192,15,2.9,9764,https://towerdao.com/192/15,https://magiceden.io/item-details/6syCWTHFPGPvU6aanj6JsN3DpBHLNBt4gabXVxj2zoKH
@@ -132,6 +130,7 @@ floor,apt,price,rank,towerURL,meURL
 225,9,3,9770,https://towerdao.com/225/9,https://magiceden.io/item-details/5srqMprkhSULF9MrR5hmyxYRiHyHj7ZF4XT17QWCJG8T
 148,14,3,7537,https://towerdao.com/148/14,https://magiceden.io/item-details/3TD4LRMJMJJ4vVASowedCd83XdT3MqANUTixQHaB6W7z
 352,17,3,9234,https://towerdao.com/352/17,https://magiceden.io/item-details/HFJZLVaJYPc8PbCaxqtPFRFPq12QwqsmG7YrgZAQFzk4
+86,19,3.2,875,https://towerdao.com/86/19,https://magiceden.io/item-details/4Ztgg2ShFe6FEocebXkEUyEyfEv98XoHBHZnmb14NB3f
 196,6,3.2,4342,https://towerdao.com/196/6,https://magiceden.io/item-details/D1VbiDnE2DWL5VPjNqgmwKY3ueur2chKUmcWs9kj6UKL
 380,1,3.2,1390,https://towerdao.com/380/1,https://magiceden.io/item-details/CdKXGq6Bt9aWEXXuFTShXk8U4dAsJ5rLBhnMgju3JgLt
 19,7,3.2,3853,https://towerdao.com/19/7,https://magiceden.io/item-details/25Lu4WgMjGxZeFy2dCWgkHnsJsqYkE7HiZPg91j36k3R
