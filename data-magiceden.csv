@@ -45,6 +45,7 @@ floor,apt,price,rank,towerURL,meURL
 480,14,1.69,6002,https://towerdao.com/480/14,https://magiceden.io/item-details/9ZkLhHAwkPyv5hKKL5FZtNKca2g1sXCT2MsqX4TmrQr1
 330,20,1.7,3395,https://towerdao.com/330/20,https://magiceden.io/item-details/3hYESDDBoqheKsBEPxabFgor2rK28aLpD18ePXXFeKem
 396,17,1.8,5717,https://towerdao.com/396/17,https://magiceden.io/item-details/HWiSXMoGTsGNEy4UCcB4S5dpXBfYm63T5tEDGvY7hWo5
+61,5,1.85,8916,https://towerdao.com/61/5,https://magiceden.io/item-details/BPiXLWe5k6gyPmJ943bD77Szud1mBXUxjQeBLgKPMcUA
 49,2,1.889,9359,https://towerdao.com/49/2,https://magiceden.io/item-details/Dj5yneSagsv8TeompeNwxTsXgoDoWbfobWcQ7Vf5rWH5
 389,9,1.89,3542,https://towerdao.com/389/9,https://magiceden.io/item-details/4hucrr848mkUNWXiNKQiUEDJYYXK6uEWCaKkK3P2qzWN
 215,2,1.89,7072,https://towerdao.com/215/2,https://magiceden.io/item-details/ATd3TdcBW928NrHwQm7A6PQNL12Gez5kRDh7TJhYZLSK
@@ -71,7 +72,6 @@ floor,apt,price,rank,towerURL,meURL
 258,16,2.05,4468,https://towerdao.com/258/16,https://magiceden.io/item-details/3SpWAUmjYY3xjEZuLKqxgcZFv2XgD7op4LAbdyHMqZCb
 74,9,2.11,5289,https://towerdao.com/74/9,https://magiceden.io/item-details/7eKm6t4bA5NucJDWjdNdRyoZ2ZoDCXZU1Vj1Eew3pAcM
 3,13,2.15,9689,https://towerdao.com/3/13,https://magiceden.io/item-details/JEJtsrP4ySMd4aJDNyR6UAC6g6kbYdY9ksQZ337PggmG
-370,19,2.19,7637,https://towerdao.com/370/19,https://magiceden.io/item-details/2thNZFTHX8FZzNhXxg748fhWJGN9DVLxNEe3bkqpeuRe
 426,10,2.2,7473,https://towerdao.com/426/10,https://magiceden.io/item-details/8vuS3Xa7Wzc7wD46xv5mf2t4JH4qu7Qc7sMx8QeEyXfZ
 87,12,2.2,5196,https://towerdao.com/87/12,https://magiceden.io/item-details/Cok3EeNnZJoXfqUgb42Jvgb1KhSEvhr7v3SxdDAUJZVm
 113,7,2.23,5099,https://towerdao.com/113/7,https://magiceden.io/item-details/FB1evPSt7b3x43CgKd7i8BtGDPqGYBJvvxeWXtPi6FE6
@@ -223,7 +223,6 @@ floor,apt,price,rank,towerURL,meURL
 123,17,5,1952,https://towerdao.com/123/17,https://magiceden.io/item-details/D3DnXrqXfYCRDAqp1KRaDtbiTcsRzkE2RqPqcb8i2az2
 8,12,5,3510,https://towerdao.com/8/12,https://magiceden.io/item-details/51ge9WRySeHQiaHcinJz11FskoX7T5idMTG3ZdwbZMnW
 328,3,5,1177,https://towerdao.com/328/3,https://magiceden.io/item-details/GUCAXF3jJx4jJQPyTVfSYL8PyDJDXdtrTQywuJ1NPW7R
-51,2,5,3960,https://towerdao.com/51/2,https://magiceden.io/item-details/9yh3SvZdRV14D256u7z5rbaFeDd13HeMMudHMr1gxwa7
 382,15,5,4590,https://towerdao.com/382/15,https://magiceden.io/item-details/DBs411YEeiFdYjnKKA9vJxgJicVf5sZ9GSmAj9WwfWWu
 74,10,5,1283,https://towerdao.com/74/10,https://magiceden.io/item-details/KPe6ccVywHE5qrDtiDdwm4mb57PXnBGjtarnhktbqbo
 147,10,5,1987,https://towerdao.com/147/10,https://magiceden.io/item-details/FvBxnwhcKcpog5BDmp9mbkxqiQ7UW6dQJ2n84KxpQfyK
